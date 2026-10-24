@@ -1,0 +1,13 @@
+{
+  "name": "noor-appartment-union-app",
+  "version": "1.0.0",
+  "description": "Flat union charges and billing app (Node.js + Express + SQLite)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^12.2.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
